@@ -1,0 +1,76 @@
+* {
+    font-family: Copperplate;
+}
+
+.colorsection {
+    display: flex;
+}
+
+.colorsection h4 {
+    margin: 3px 15px;
+
+}
+
+
+
+section {
+    display: inline-block;
+    margin: 0px 50px 50px 25px;
+}
+
+.fonts p {
+    width: 50%;
+    height: 25%;
+}
+
+.color p{
+    color: lightgrey;
+    font-family: Copperplate;
+    font-weight: bold;
+    margin: 5px 0px 10px 0px;
+}
+
+.headings p{
+    color: lightgrey;
+    font-weight: bold;
+    margin-top: 19px;
+
+}
+
+.circle {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+}
+
+.darkaqua {
+    background-color: #176d7a;
+}
+
+.aqua {
+    background-color: #6cafb6;
+}
+
+.dirtypink {
+    background-color: #e1aeae;
+}
+
+.pink {
+    background-color: #e9c3c3;
+}
+
+.darkcream {
+    background-color: #e5cec2;
+}
+
+.cream {
+    background-color: #f5e2db;
+}
+
+.arial {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.avantgarde {
+    font-family: 'Avant Garde';
+}
